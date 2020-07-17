@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Swastik Baranwal from Delhi, India who is a Noob, Open Source and V Contributor, DevOps enthusiastic, Ex Pokemon Gba Rom Hacker and Pixel Artist, loves Anime and Manga, always learning new things, ready for discussions and making new projects, write blogs on Dev.to etc.
+My name is Wu Xiang. I am from the School of Mathematical Sciences of Dalian University of Technology. I am currently a sophomore in undergraduate studies. My research direction is computer vision. I am familiar with multiple languages. I am particularly good at python and nodejs. I like to keep exploring new things.
 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: [Acknowledged](https://raw.githubusercontent.com/Delta456/Delta456/master/img/solomon.png) by [Guido Van Rossum](https://github.com/gvanrossum) himself 🤯
