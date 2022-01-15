@@ -4,4 +4,4 @@ My name is XiaoRui. I am from the School of Mathematical Sciences of :) ๎๎�
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/snapre/snapre/output/github-contribution-grid-snake.svg)
 
-_Recently, I developed a puzzle game, click on the link to experience it (js, python, animation) => [bobbyGo](https://bobby.duters-wu.cn)._ 
+_Recently, I developed a puzzle game, click on the link to experience it (js, python, animation) => [bobbyGo](https://bobby.duters-wu.cn)._ :)
