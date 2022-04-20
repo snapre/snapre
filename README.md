@@ -4,16 +4,16 @@
   <img align="left" alt="Snapre's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.facebook.com/snapre.wx" target="_blank">
-  <img align="left" alt="Ajay's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Snapre's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://github.com/snapre">
-  <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Snapre's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.zhihu.com/people/beiyipu" target="_blank">
   <img align="left" alt="Snapre's Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/zhihu.svg" />
 </a>
 <a href="https://yuque.com/snapre" target="_blank">
-  <img align="left" alt="Ajay's Yuque" width="22px" src="./svg/yuque.svg" />
+  <img align="left" alt="Snapre's Yuque" width="22px" src="./svg/yuque.svg" />
 </a>
 <br />
 
