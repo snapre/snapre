@@ -15,6 +15,9 @@
 <a href="https://yuque.com/snapre" target="_blank">
   <img align="left" alt="Snapre's Yuque" width="22px" src="https://cdn.jsdelivr.net/gh/snapre/snapre@1.0.0/svg/yuque.svg" />
 </a>
+<a href="https://bobby.duters-wu.cn" target="_blank">
+  <img align="left" alt="Snapre's Game" width="22px" src="./svg/bobby.svg" />
+</a>
 <br />
 
 ### I am Snapre
