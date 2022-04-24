@@ -24,5 +24,3 @@
 - An ML & Open Source enthusiast.
 - A Information and Computing Science Undergraduate Student. 
 - Currently working on some of cool projects based on Web Development and Machine Learning.
-
-https://github.com/snapre/snapre/blob/output/README_cn.md
