@@ -1,4 +1,4 @@
-## Hello World ! <img src="https://cdn.jsdelivr.net/gh/snapre/snapre@1.0.0/svg/Hi.gif" width="30px"></h2>
+## Hello World !
 
 <a href="https://twitter.com/_snapre" target="_blank">
   <img align="left" alt="Snapre's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
