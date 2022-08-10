@@ -16,6 +16,9 @@
   <img align="left" alt="Snapre's Yuque" width="22px" src="https://cdn.jsdelivr.net/gh/snapre/snapre@1.0.0/svg/yuque.svg" />
 </a>
 <br />
+<br />
+
+```> npm run start```
 
 ### I am Snapre
 - An ML & Open Source enthusiast.
