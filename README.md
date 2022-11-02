@@ -22,5 +22,4 @@
 
 ### I am Snapre
 - An ML & Open Source enthusiast.
-- A Information and Computing Science Undergraduate Student. 
 - Currently working on some of cool projects based on Web Development and Machine Learning.
