@@ -3,10 +3,13 @@
 ```> npm run start```
 
 <a href="https://x.com/_snapre" target="_blank">
-  <img align="left" alt="Snapre's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Snapre's X" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@16.1.0/icons/x.svg" />
 </a>
 <a href="https://www.facebook.com/snapre.wx" target="_blank">
   <img align="left" alt="Snapre's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.instagram.com/snapre.wx" target="_blank">
+  <img align="left" alt="Snapre's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@16.1.0/icons/instagram.svg" />
 </a>
 <a href="https://github.com/snapre">
   <img align="left" alt="Snapre's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
