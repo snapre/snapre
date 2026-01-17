@@ -12,13 +12,26 @@ I'm a developer passionate about **AI Agent** and **iOS Development**.
 - Full-stack Web Development
 
 ---
-
 ### 📱 Connect with me:
 
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x)](https://x.com/_snapre)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook)](https://www.facebook.com/snapre.wx)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram)](https://www.instagram.com/snapre.wx)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/snapre)
-[![Zhihu](https://img.shields.io/badge/Zhihu-0084FF?style=flat&logo=zhihu)](https://www.zhihu.com/people/beiyipu)
-[![Yuque](https://img.shields.io/badge/Yuque-25B864?style=flat&logo=yuque)](https://yuque.com/snapre)
+<a href="https://x.com/_snapre" target="_blank">
+  <img align="left" alt="Snapre's X" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@16.1.0/icons/x.svg" />
+</a>
+<a href="https://www.facebook.com/snapre.wx" target="_blank">
+  <img align="left" alt="Snapre's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://www.instagram.com/snapre.wx" target="_blank">
+  <img align="left" alt="Snapre's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@16.1.0/icons/instagram.svg" />
+</a>
+<a href="https://github.com/snapre">
+  <img align="left" alt="Snapre's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.zhihu.com/people/beiyipu" target="_blank">
+  <img align="left" alt="Snapre's Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/zhihu.svg" />
+</a>
+<a href="https://yuque.com/snapre" target="_blank">
+  <img align="left" alt="Snapre's Yuque" width="22px" src="https://cdn.jsdelivr.net/gh/snapre/snapre@1.0.0/svg/yuque.svg" />
+</a>
+<br />
+<br />
 
