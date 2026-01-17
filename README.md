@@ -1,6 +1,17 @@
-## Hello World !
+## Hello World 👋
 
-```> npm run start```
+I'm a developer passionate about **AI Agent** and **iOS Development**.
+
+### 🚀 What I'm working on:
+- **AI Agent Products**: Building intelligent agents that solve real-world problems
+- **iOS Apps**: Publishing independent apps on the App Store
+
+### 💻 Tech Stack:
+- AI/ML, LLMs, Agent Systems
+- iOS Development, Swift
+- Full-stack Web Development
+
+---
 
 <a href="https://x.com/_snapre" target="_blank">
   <img align="left" alt="Snapre's X" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@16.1.0/icons/x.svg" />
